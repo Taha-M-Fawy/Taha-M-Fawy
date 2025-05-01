@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi ὄb, I'm Taha Fawy</h1>
+<h1 align="center">Hi, I'm Taha Fawy</h1>
 <h3 align="center">A Front-End Developer</h3>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About me
