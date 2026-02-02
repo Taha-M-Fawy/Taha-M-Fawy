@@ -1,13 +1,16 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Angular+%26+React+Specialist;Building+Responsive+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;Angular+%7C+.NET+%7C+Django;Building+Clean+UI+%26+UX" />
 </p>
 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;Building+Clean+%26+Responsive+Web+Apps;Always+Learning+%26+Improving+🚀" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Angular+%26+React+Developer;Building+Clean+Responsive+Web+Apps"
+  />
+</p>
+
 
 </div>
 
@@ -77,31 +80,78 @@ I enjoy transforming ideas into real projects using modern web technologies, wit
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Website (JavaScript)
-- Full front-end e-commerce website  
-- Features: product listing, cart system, responsive design  
-🔗 Repo: https://github.com/Taha-M-Fawy/e-commerce-website
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Educational Website</h3>
+      <div align="center">
+        <a href="https://github.com/Taha-M-Fawy/educational-website" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+        <p>
+          <strong>🔧 HTML • CSS • Bootstrap • JavaScript</strong><br>
+          Fully responsive online learning platform with clean design, pages for Home, About, Courses, Teachers, Contact, and dynamic features using JSON & localStorage.
+        </p>
+        <p>
+          🔗 <a href="https://taha-educational.netlify.app" target="_blank">Live Demo</a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Hospital Database</h3>
+      <div align="center">
+        <a href="https://github.com/Taha-M-Fawy/hospital-database" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+        <p>
+          <strong>🔧 SQL • ERD Design • Figma</strong><br>
+          Comprehensive hospital management database with tables for patients, doctors, appointments, and departments. Includes ERD diagrams and SQL scripts.
+        </p>
+        <p>
+          🔗 <a href="https://lnkd.in/dFbTacNj" target="_blank">Resources & GitHub</a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ E-commerce Website</h3>
+      <div align="center">
+        <a href="https://github.com/Taha-M-Fawy/e-commerce-website" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+        <p>
+          <strong>🔧 HTML • CSS • Bootstrap • JavaScript</strong><br>
+          Modern, responsive e-commerce platform with product catalog, shopping cart, responsive layout, clean UI, and subtle animations.
+        </p>
+        <p>
+          🔗 <a href="https://taha-ecommerce.netlify.app" target="_blank">Live Demo</a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚛️ React Cart Project</h3>
+      <div align="center">
+        <a href="https://github.com/Taha-M-Fawy/react-food-app" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+        <p>
+          <strong>🔧 React • Redux • JavaScript • CSS</strong><br>
+          Modern shopping cart project built with React and Redux. Features clean component structure, reusable logic, efficient prop passing, and a user-friendly interface design.
+        </p>
+        <p>
+          Tutorial Video I Followed: <a href="https://lnkd.in/dZRAHwfJ" target="_blank">Watch</a><br>
+          GitHub Repository: <a href="https://lnkd.in/dAMCXV8M" target="_blank">View</a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <a href="https://github.com/Taha-M-Fawy?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00ff41?style=for-the-badge&logo=github&
 
-### 🎬 YouTube Platform Clone (Angular)
-- YouTube-like platform built with Angular  
-- Component-based structure and clean UI  
-🔗 Repo: https://github.com/SABRY225/Youtube-Platform
-
----
-
-### 🍔 React Food App
-- Food ordering interface using React  
-- Focused on reusable components and modern UI  
-🔗 Repo: https://github.com/Taha-M-Fawy/react-food-app
-
----
-
-## 🌱 Currently Learning
-- Advanced Angular concepts  
-- React best practices  
-- Improving UI/UX skills  
 
 ---
 
