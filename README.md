@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Taha-M-Fawy&label=Profile%20Views&color=38B2AC&style=for-the-badge"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;React.js+%7C+Django+%7C+WordPress" />
 </p>
@@ -9,9 +14,23 @@
 ---
 
 ## 👋 About Me
-I'm a **Full-Stack Developer & Software Engineer** based in Egypt. I have hands-on experience building modern web applications, designing scalable backend systems, and deploying functional business solutions. 
+I'm a **Full-Stack Developer & Software Engineering Student** at **Qena University (formerly South Valley University – SVU)** with 2+ years of experience building scalable web applications using **React.js, Django, and PostgreSQL**.
 
-Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and **Academic Project Lead** (managing a team of 6). I am also highly active in competitive programming (**ECPC 2025 National Finalist**) and thrive in fast-paced hackathons.
+I've developed **40+ RESTful APIs**, built production-ready web solutions, and enjoy solving real-world software engineering challenges.
+
+Beyond development, I currently serve as the **Batch Leader** at the Faculty of Computers and Information and the **CS Fundamentals Track Head** at **Support Community Qena**, where I mentor aspiring developers. I previously served as a **Frontend Track Lead & Instructor**.
+
+I also participate in competitive programming and hackathons, including **ECPC**, the **IEEE DOM-DOM Hackathon (3rd Place)**, and the **Qena University 7-Day Web Competition (3rd Place)**.
+
+---
+
+## 🏅 Highlights
+🏆 **3rd Place** — IEEE DOM-DOM Hackathon (25 Teams)
+🏆 **3rd Place** — Qena University Web Competition
+🚀 Built **40+ RESTful APIs**
+👨‍🏫 **CS Fundamentals Track Head** — Support Community Qena
+👥 **Batch Leader** — Faculty of Computers & Information, Qena University
+💼 **2+ Years** of Development Experience
 
 ---
 
@@ -77,14 +96,14 @@ Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📚 LMS Backend System</h3>
+      <h3 align="center">📚 LMS Backend System (Commit Ma3ana)</h3>
       <div align="center">
         <a href="https://github.com/Taha-M-Fawy/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-00ff41?style=for-the-badge&logo=github&logoColor=black" />
         </a>
         <p>
           <strong>🔧 Django • Django REST Framework • PostgreSQL</strong><br>
-          Cross-platform CS learning system featuring 15+ scalable RESTful APIs for course materials, quiz workflows, and notifications. Implemented multi-role architectures for students, admins, and instructors.
+          Developed <strong>40+ RESTful APIs</strong> powering courses, quizzes, notifications, materials, authentication, and student progress tracking. Built role-based authorization, automated streak calculations, PDF validation, and scalable backend architecture using Django REST Framework.
         </p>
       </div>
     </td>
@@ -95,8 +114,8 @@ Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and
           <img src="https://img.shields.io/badge/View%20Repository-00ff41?style=for-the-badge&logo=github&logoColor=black" />
         </a>
         <p>
-          <strong>🔧 React.js • Tailwind CSS • Responsive Design</strong><br>
-          Awarded <strong>3rd Place</strong> out of 25 teams at the IEEE DOM-DOM Hackathon. Connects driving instructors and trainees with complex location, price, and quality filtering under tight rapid-prototyping deadlines.
+          <strong>🔧 React.js • Tailwind CSS • Node.js</strong><br>
+          Built a responsive multi-role web application integrating location-based search, instructor filtering, and booking workflows. Awarded <strong>3rd Place</strong> among <strong>25 teams</strong> at the IEEE DOM-DOM Hackathon.
         </p>
       </div>
     </td>
@@ -110,7 +129,7 @@ Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and
         </a>
         <p>
           <strong>🔧 WordPress • Elementor • SEO & Localization</strong><br>
-          A completely deployed, responsive professional clinic website featuring multilingual support, custom UI components, performance optimizations, and full SEO setup.
+          Successfully deployed a production-ready multilingual clinic website with SEO optimization, responsive design, performance enhancements, and online appointment support.
         </p>
       </div>
     </td>
@@ -122,7 +141,7 @@ Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and
         </a>
         <p>
           <strong>🔧 HTML5 • CSS3 • JavaScript • LocalStorage</strong><br>
-          Awarded <strong>3rd Place</strong> in the SVU 7-Day Web Development Competition. Features dynamic frontend content rendering and local data persistence mechanisms.
+          Awarded <strong>3rd Place</strong> in the Qena University 7-Day Web Development Competition. Features dynamic frontend content rendering and local data persistence mechanisms.
         </p>
       </div>
     </td>
@@ -136,7 +155,7 @@ Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and
         </a>
         <p>
           <strong>🔧 React.js • Redux Toolkit • Component Reusability</strong><br>
-          A highly optimized shopping cart application focused on state management, high performance, clean component boundaries, and interactive user logic.
+          Implemented scalable state management using Redux Toolkit with reusable components, dynamic product filtering, and persistent shopping cart functionality.
         </p>
       </div>
     </td>
@@ -148,7 +167,7 @@ Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and
         </a>
         <p>
           <strong>🔧 Bootstrap • JavaScript • Team Leadership</strong><br>
-          Led a technical team of 6 students to design and implement a full e-commerce infrastructure, achieving a **Grade 'A'** for engineering and clean UI/UX implementation.
+          Led a team of 6 developers to build a complete e-commerce platform with authentication, product management, responsive UI, and collaborative Git workflow.
         </p>
       </div>
     </td>
@@ -166,14 +185,30 @@ Beyond coding, I've proven my leadership skills as a **Technical Team Lead** and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taha-M-Fawy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taha-M-Fawy&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taha-M-Fawy&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taha-M-Fawy&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/taha-mohamed-fawy](https://linkedin.com/in/taha-mohamed-fawy)
-- ✉️ Email: tahafawy2@gmail.com
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-M-Fawy&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+- 💼 **LinkedIn:** [linkedin.com/in/taha-mohamed-fawy](https://linkedin.com/in/taha-mohamed-fawy)
+- 💬 **WhatsApp:** [Chat Directly](https://wa.me/201097241434)
+- ✉️ **Email:** tahafawy2@gmail.com
+
+⭐ *Feel free to explore my repositories and connect for collaboration.*
 
 ---
 
